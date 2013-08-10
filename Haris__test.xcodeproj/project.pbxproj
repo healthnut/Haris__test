@@ -41,6 +41,7 @@
 		DBD61FC81446B62400A5556E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DBD61FCA1446B62400A5556E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		DBD61FCE1446B62400A5556E /* Haris__test-Info.plist */ = {isa = PBXFileReference; path = "Haris__test-Info.plist"; sourceTree = "<group>"; };
+		DBD61FCE1446B62400A5556E /* Haris__test-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Haris__test-Info.plist"; sourceTree = "<group>"; };
 		DBD61FD01446B62400A5556E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DBD61FD21446B62400A5556E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DBD61FD41446B62400A5556E /* Haris__test-Prefix.pch */ = {isa = PBXFileReference; path = "Haris__test-Prefix.pch"; sourceTree = "<group>"; };
